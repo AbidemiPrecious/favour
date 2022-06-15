@@ -1,0 +1,7 @@
+.header{
+ display: grid;
+ grid-template-columns: auto;
+}
+.text{
+ grid-column-end: 4;
+}
